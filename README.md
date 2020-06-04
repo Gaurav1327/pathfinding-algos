@@ -13,6 +13,6 @@ Objective
 
 
 Run the project:
-Clone the repository
+=>Clone the repository=>
 Open index.html 
 
